@@ -1,2 +1,3 @@
-![ichi-no-se's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichi-no-se&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichi-no-se&layout=compact)
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ichi-no-se&theme=default)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ichi-no-se&theme=default)
+![language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ichi-no-se&theme=default)
